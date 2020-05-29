@@ -1,5 +1,5 @@
 # SOLAR-ARRAY-DESIGN-PROCESS
-
+Please use solararraydp2.py
 1) Determine requirements and constraints for power subsystem solar array design
 
 2) Calculate amount of power that must be produced by the solar arrays, Psa
